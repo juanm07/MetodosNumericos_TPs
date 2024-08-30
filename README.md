@@ -10,6 +10,6 @@ Se implementaron diferentes metodos para el algoritmo de eliminacion gaussiana, 
 
 Se implemento un reconocedor de imagenes utilizando el algoritmo de KNN. Para dicha implementacion se realizaron los algoritmos correspondientes al metodo de la potencia, PCA, y validacion cruzada para el calculo de hiperparametros.
 
-##TP3
+## TP3
 
 Se implemento el algoritmo de cuadrados minimos utilizando la descomposicion SVD. Para luego realizar un ajuste de curvas utilizando los polinomios de Legendre
