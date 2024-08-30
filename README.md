@@ -1,6 +1,6 @@
 # TPs de Metodos Numericos 1c2024
 
-## Todos los TPs tienen su correspondiente informe con el detalle de cada uno
+### Todos los TPs tienen su correspondiente informe con el detalle de cada uno
 
 ## TP1
 
